@@ -1,0 +1,21 @@
+{
+  "name": "starman-auto",
+  "version": "1.0.0",
+  "description": "There's a starman waiting in the sky",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChaikaBogdan/starman-auto.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChaikaBogdan/starman-auto/issues"
+  },
+  "homepage": "https://github.com/ChaikaBogdan/starman-auto#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.18.1"
+  }
+}
